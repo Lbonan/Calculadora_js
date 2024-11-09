@@ -67,7 +67,7 @@ cd Calculadora_js
 - **Troca de Tema:** A calculadora utiliza variáveis CSS para alternar entre o modo claro e escuro, proporcionando uma experiência visual aprimorada.
 
 ## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/). Veja o arquivo LICENSE para mais detalhes.
 
 ## 📞 Contato
 Entre em contato comigo!
