@@ -44,7 +44,7 @@ Link da produção: https://calculadora-js-olive.vercel.app/
 
 1. Clone este repositório:
  ```bash
-git clone https://github.com/seu-usuario/Calculadora_js.git
+git clone https://github.com/Lbonan/Calculadora_js.git
 ````
 2. Navegue até a pasta do projeto:
  ```bash
